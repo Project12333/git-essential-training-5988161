@@ -1,0 +1,1 @@
+to check del funtion
