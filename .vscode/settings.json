@@ -21,11 +21,12 @@
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   "files.exclude": {
-    "**/.git": false,
+    //"**/.git": false,
     "**/.svn": true,
     "**/.hg": true,
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
     ".mule": true
   }
+ 
 }
